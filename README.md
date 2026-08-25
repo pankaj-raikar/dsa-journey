@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/pankaj-raikar/dsa-journey/tree/master/0208-implement-trie-prefix-tree) |
+| [0648-replace-words](https://github.com/pankaj-raikar/dsa-journey/tree/master/0648-replace-words) |
 ## String
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/pankaj-raikar/dsa-journey/tree/master/0208-implement-trie-prefix-tree) |
+| [0648-replace-words](https://github.com/pankaj-raikar/dsa-journey/tree/master/0648-replace-words) |
 ## Design
 |  |
 | ------- |
@@ -17,4 +19,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/pankaj-raikar/dsa-journey/tree/master/0208-implement-trie-prefix-tree) |
+| [0648-replace-words](https://github.com/pankaj-raikar/dsa-journey/tree/master/0648-replace-words) |
+## Array
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/pankaj-raikar/dsa-journey/tree/master/0648-replace-words) |
 <!---LeetCode Topics End-->
