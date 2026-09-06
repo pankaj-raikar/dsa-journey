@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/pankaj-raikar/dsa-journey/tree/master/0648-replace-words) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pankaj-raikar/dsa-journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pankaj-raikar/dsa-journey/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/pankaj-raikar/dsa-journey/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -47,4 +48,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/pankaj-raikar/dsa-journey/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/pankaj-raikar/dsa-journey/tree/master/3876-construct-uniform-parity-array-ii) |
 <!---LeetCode Topics End-->
