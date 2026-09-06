@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0212-word-search-ii](https://github.com/pankaj-raikar/dsa-journey/tree/master/0212-word-search-ii) |
 | [0648-replace-words](https://github.com/pankaj-raikar/dsa-journey/tree/master/0648-replace-words) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/pankaj-raikar/dsa-journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/pankaj-raikar/dsa-journey/tree/master/0212-word-search-ii) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/pankaj-raikar/dsa-journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
