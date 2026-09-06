@@ -60,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/pankaj-raikar/dsa-journey/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pankaj-raikar/dsa-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/pankaj-raikar/dsa-journey/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
