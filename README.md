@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/pankaj-raikar/dsa-journey/tree/master/0212-word-search-ii) |
 | [0648-replace-words](https://github.com/pankaj-raikar/dsa-journey/tree/master/0648-replace-words) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pankaj-raikar/dsa-journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2855-minimum-right-shifts-to-sort-the-array](https://github.com/pankaj-raikar/dsa-journey/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/pankaj-raikar/dsa-journey/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/pankaj-raikar/dsa-journey/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pankaj-raikar/dsa-journey/tree/master/3875-construct-uniform-parity-array-i) |
