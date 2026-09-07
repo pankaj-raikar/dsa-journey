@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/pankaj-raikar/dsa-journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/pankaj-raikar/dsa-journey/tree/master/0648-replace-words) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/pankaj-raikar/dsa-journey/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/pankaj-raikar/dsa-journey/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 ## String
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2960-count-tested-devices-after-test-operations](https://github.com/pankaj-raikar/dsa-journey/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/pankaj-raikar/dsa-journey/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3028-ant-on-the-boundary](https://github.com/pankaj-raikar/dsa-journey/tree/master/3028-ant-on-the-boundary) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/pankaj-raikar/dsa-journey/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pankaj-raikar/dsa-journey/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/pankaj-raikar/dsa-journey/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Backtracking
