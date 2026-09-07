@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pankaj-raikar/dsa-journey/tree/master/0001-two-sum) |
 | [0208-implement-trie-prefix-tree](https://github.com/pankaj-raikar/dsa-journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/pankaj-raikar/dsa-journey/tree/master/0648-replace-words) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/pankaj-raikar/dsa-journey/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/pankaj-raikar/dsa-journey/tree/master/0212-word-search-ii) |
 | [0648-replace-words](https://github.com/pankaj-raikar/dsa-journey/tree/master/0648-replace-words) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pankaj-raikar/dsa-journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/pankaj-raikar/dsa-journey/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/pankaj-raikar/dsa-journey/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/pankaj-raikar/dsa-journey/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/pankaj-raikar/dsa-journey/tree/master/2960-count-tested-devices-after-test-operations) |
@@ -96,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2960-count-tested-devices-after-test-operations](https://github.com/pankaj-raikar/dsa-journey/tree/master/2960-count-tested-devices-after-test-operations) |
+## Sorting
+|  |
+| ------- |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/pankaj-raikar/dsa-journey/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/pankaj-raikar/dsa-journey/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 <!---LeetCode Topics End-->
