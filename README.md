@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/pankaj-raikar/dsa-journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pankaj-raikar/dsa-journey/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/pankaj-raikar/dsa-journey/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Divide and Conquer
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/pankaj-raikar/dsa-journey/tree/master/0443-string-compression) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/pankaj-raikar/dsa-journey/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
