@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/pankaj-raikar/dsa-journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/pankaj-raikar/dsa-journey/tree/master/0648-replace-words) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/pankaj-raikar/dsa-journey/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [3146-permutation-difference-between-two-strings](https://github.com/pankaj-raikar/dsa-journey/tree/master/3146-permutation-difference-between-two-strings) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/pankaj-raikar/dsa-journey/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 ## String
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/pankaj-raikar/dsa-journey/tree/master/0212-word-search-ii) |
 | [0443-string-compression](https://github.com/pankaj-raikar/dsa-journey/tree/master/0443-string-compression) |
 | [0648-replace-words](https://github.com/pankaj-raikar/dsa-journey/tree/master/0648-replace-words) |
+| [3146-permutation-difference-between-two-strings](https://github.com/pankaj-raikar/dsa-journey/tree/master/3146-permutation-difference-between-two-strings) |
 ## Design
 |  |
 | ------- |
