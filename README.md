@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pankaj-raikar/dsa-journey/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pankaj-raikar/dsa-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0208-implement-trie-prefix-tree](https://github.com/pankaj-raikar/dsa-journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/pankaj-raikar/dsa-journey/tree/master/0648-replace-words) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/pankaj-raikar/dsa-journey/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pankaj-raikar/dsa-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0208-implement-trie-prefix-tree](https://github.com/pankaj-raikar/dsa-journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/pankaj-raikar/dsa-journey/tree/master/0212-word-search-ii) |
 | [0443-string-compression](https://github.com/pankaj-raikar/dsa-journey/tree/master/0443-string-compression) |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pankaj-raikar/dsa-journey/tree/master/3345-smallest-divisible-digit-product-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pankaj-raikar/dsa-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
