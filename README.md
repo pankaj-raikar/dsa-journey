@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/pankaj-raikar/dsa-journey/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pankaj-raikar/dsa-journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0146-lru-cache](https://github.com/pankaj-raikar/dsa-journey/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/pankaj-raikar/dsa-journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/pankaj-raikar/dsa-journey/tree/master/0648-replace-words) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/pankaj-raikar/dsa-journey/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/pankaj-raikar/dsa-journey/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/pankaj-raikar/dsa-journey/tree/master/0208-implement-trie-prefix-tree) |
 ## Trie
 |  |
@@ -152,4 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pankaj-raikar/dsa-journey/tree/master/0003-longest-substring-without-repeating-characters) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/pankaj-raikar/dsa-journey/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/pankaj-raikar/dsa-journey/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
