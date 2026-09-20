@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/pankaj-raikar/dsa-journey/tree/master/0258-add-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pankaj-raikar/dsa-journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pankaj-raikar/dsa-journey/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/pankaj-raikar/dsa-journey/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/pankaj-raikar/dsa-journey/tree/master/0258-add-digits) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/pankaj-raikar/dsa-journey/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3028-ant-on-the-boundary](https://github.com/pankaj-raikar/dsa-journey/tree/master/3028-ant-on-the-boundary) |
 ## Prefix Sum
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/pankaj-raikar/dsa-journey/tree/master/0146-lru-cache) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/pankaj-raikar/dsa-journey/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
