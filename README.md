@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pankaj-raikar/dsa-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0212-word-search-ii](https://github.com/pankaj-raikar/dsa-journey/tree/master/0212-word-search-ii) |
 | [0648-replace-words](https://github.com/pankaj-raikar/dsa-journey/tree/master/0648-replace-words) |
+| [0941-valid-mountain-array](https://github.com/pankaj-raikar/dsa-journey/tree/master/0941-valid-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pankaj-raikar/dsa-journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pankaj-raikar/dsa-journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pankaj-raikar/dsa-journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
