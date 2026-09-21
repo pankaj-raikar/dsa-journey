@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/pankaj-raikar/dsa-journey/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pankaj-raikar/dsa-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0212-word-search-ii](https://github.com/pankaj-raikar/dsa-journey/tree/master/0212-word-search-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/pankaj-raikar/dsa-journey/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/pankaj-raikar/dsa-journey/tree/master/0648-replace-words) |
 | [0941-valid-mountain-array](https://github.com/pankaj-raikar/dsa-journey/tree/master/0941-valid-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pankaj-raikar/dsa-journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pankaj-raikar/dsa-journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/pankaj-raikar/dsa-journey/tree/master/0643-maximum-average-subarray-i) |
 ## Linked List
 |  |
 | ------- |
