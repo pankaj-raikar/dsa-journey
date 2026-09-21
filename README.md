@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/pankaj-raikar/dsa-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0208-implement-trie-prefix-tree](https://github.com/pankaj-raikar/dsa-journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/pankaj-raikar/dsa-journey/tree/master/0212-word-search-ii) |
+| [0392-is-subsequence](https://github.com/pankaj-raikar/dsa-journey/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/pankaj-raikar/dsa-journey/tree/master/0443-string-compression) |
 | [0648-replace-words](https://github.com/pankaj-raikar/dsa-journey/tree/master/0648-replace-words) |
 | [1446-consecutive-characters](https://github.com/pankaj-raikar/dsa-journey/tree/master/1446-consecutive-characters) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/pankaj-raikar/dsa-journey/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pankaj-raikar/dsa-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/pankaj-raikar/dsa-journey/tree/master/0392-is-subsequence) |
 ## Database
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/pankaj-raikar/dsa-journey/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/pankaj-raikar/dsa-journey/tree/master/0443-string-compression) |
 ## Enumeration
 |  |
