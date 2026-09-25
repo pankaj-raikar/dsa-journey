@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/pankaj-raikar/dsa-journey/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/pankaj-raikar/dsa-journey/tree/master/0443-string-compression) |
 | [0648-replace-words](https://github.com/pankaj-raikar/dsa-journey/tree/master/0648-replace-words) |
+| [0880-decoded-string-at-index](https://github.com/pankaj-raikar/dsa-journey/tree/master/0880-decoded-string-at-index) |
 | [1446-consecutive-characters](https://github.com/pankaj-raikar/dsa-journey/tree/master/1446-consecutive-characters) |
 | [3146-permutation-difference-between-two-strings](https://github.com/pankaj-raikar/dsa-journey/tree/master/3146-permutation-difference-between-two-strings) |
 ## Design
@@ -200,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pankaj-raikar/dsa-journey/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [0880-decoded-string-at-index](https://github.com/pankaj-raikar/dsa-journey/tree/master/0880-decoded-string-at-index) |
 <!---LeetCode Topics End-->
