@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/pankaj-raikar/dsa-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/pankaj-raikar/dsa-journey/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/pankaj-raikar/dsa-journey/tree/master/0213-house-robber-ii) |
+| [0403-frog-jump](https://github.com/pankaj-raikar/dsa-journey/tree/master/0403-frog-jump) |
 | [0643-maximum-average-subarray-i](https://github.com/pankaj-raikar/dsa-journey/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/pankaj-raikar/dsa-journey/tree/master/0648-replace-words) |
 | [0941-valid-mountain-array](https://github.com/pankaj-raikar/dsa-journey/tree/master/0941-valid-mountain-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/pankaj-raikar/dsa-journey/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pankaj-raikar/dsa-journey/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/pankaj-raikar/dsa-journey/tree/master/0392-is-subsequence) |
+| [0403-frog-jump](https://github.com/pankaj-raikar/dsa-journey/tree/master/0403-frog-jump) |
 ## Database
 |  |
 | ------- |
