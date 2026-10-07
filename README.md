@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2960-count-tested-devices-after-test-operations](https://github.com/pankaj-raikar/dsa-journey/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/pankaj-raikar/dsa-journey/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3028-ant-on-the-boundary](https://github.com/pankaj-raikar/dsa-journey/tree/master/3028-ant-on-the-boundary) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/pankaj-raikar/dsa-journey/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/pankaj-raikar/dsa-journey/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pankaj-raikar/dsa-journey/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/pankaj-raikar/dsa-journey/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -71,10 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/pankaj-raikar/dsa-journey/tree/master/0212-word-search-ii) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/pankaj-raikar/dsa-journey/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 ## Greedy
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pankaj-raikar/dsa-journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/pankaj-raikar/dsa-journey/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 ## Math
 |  |
 | ------- |
