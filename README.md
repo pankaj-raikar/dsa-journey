@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/pankaj-raikar/dsa-journey/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/pankaj-raikar/dsa-journey/tree/master/0206-reverse-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -215,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0880-decoded-string-at-index](https://github.com/pankaj-raikar/dsa-journey/tree/master/0880-decoded-string-at-index) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/pankaj-raikar/dsa-journey/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
