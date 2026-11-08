@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pankaj-raikar/dsa-journey/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/pankaj-raikar/dsa-journey/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/pankaj-raikar/dsa-journey/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/pankaj-raikar/dsa-journey/tree/master/0258-add-digits) |
 | [0728-self-dividing-numbers](https://github.com/pankaj-raikar/dsa-journey/tree/master/0728-self-dividing-numbers) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/pankaj-raikar/dsa-journey/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/pankaj-raikar/dsa-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pankaj-raikar/dsa-journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Memoization
@@ -235,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/pankaj-raikar/dsa-journey/tree/master/0225-implement-stack-using-queues) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/pankaj-raikar/dsa-journey/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
