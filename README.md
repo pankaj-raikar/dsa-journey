@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/pankaj-raikar/dsa-journey/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/pankaj-raikar/dsa-journey/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/pankaj-raikar/dsa-journey/tree/master/0208-implement-trie-prefix-tree) |
 ## Trie
 |  |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/pankaj-raikar/dsa-journey/tree/master/0155-min-stack) |
 | [0880-decoded-string-at-index](https://github.com/pankaj-raikar/dsa-journey/tree/master/0880-decoded-string-at-index) |
 ## Recursion
 |  |
