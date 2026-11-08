@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/pankaj-raikar/dsa-journey/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/pankaj-raikar/dsa-journey/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/pankaj-raikar/dsa-journey/tree/master/0208-implement-trie-prefix-tree) |
+| [0225-implement-stack-using-queues](https://github.com/pankaj-raikar/dsa-journey/tree/master/0225-implement-stack-using-queues) |
 ## Trie
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/pankaj-raikar/dsa-journey/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/pankaj-raikar/dsa-journey/tree/master/0225-implement-stack-using-queues) |
 | [0880-decoded-string-at-index](https://github.com/pankaj-raikar/dsa-journey/tree/master/0880-decoded-string-at-index) |
 ## Recursion
 |  |
@@ -229,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/pankaj-raikar/dsa-journey/tree/master/0141-linked-list-cycle) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/pankaj-raikar/dsa-journey/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
