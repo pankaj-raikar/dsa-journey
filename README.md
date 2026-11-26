@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/pankaj-raikar/dsa-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/pankaj-raikar/dsa-journey/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/pankaj-raikar/dsa-journey/tree/master/0213-house-robber-ii) |
+| [0283-move-zeroes](https://github.com/pankaj-raikar/dsa-journey/tree/master/0283-move-zeroes) |
 | [0312-burst-balloons](https://github.com/pankaj-raikar/dsa-journey/tree/master/0312-burst-balloons) |
 | [0403-frog-jump](https://github.com/pankaj-raikar/dsa-journey/tree/master/0403-frog-jump) |
 | [0643-maximum-average-subarray-i](https://github.com/pankaj-raikar/dsa-journey/tree/master/0643-maximum-average-subarray-i) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/pankaj-raikar/dsa-journey/tree/master/0141-linked-list-cycle) |
+| [0283-move-zeroes](https://github.com/pankaj-raikar/dsa-journey/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/pankaj-raikar/dsa-journey/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/pankaj-raikar/dsa-journey/tree/master/0443-string-compression) |
 ## Enumeration
